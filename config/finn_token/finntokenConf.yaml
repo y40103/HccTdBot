@@ -1,0 +1,14 @@
+email_set:
+  -
+    - 123450@outlook.com
+    - passwd1
+  -
+    - 44532@gmail.com
+    - passwd2
+
+
+symbol_set:
+  - collect
+  - TQQQ
+
+

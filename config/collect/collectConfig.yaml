@@ -1,0 +1,10 @@
+collect:
+  -
+    long: NRGU
+    short: DRIP
+  -
+    long: GDXU
+    short: GDXD
+
+
+
